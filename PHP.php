@@ -26,3 +26,15 @@ under the folder to read, write and execute access.
 
 9. Paste the dependencies folder in /opt/lampp/htdocs & type
 http://localhost/foldername  view the desired output.
+
+
+
+---------------------------------------
+Syntax
+---------------------------------------
+
+
+---------------------------------------
+Advanced Code + Validation
+---------------------------------------
+
