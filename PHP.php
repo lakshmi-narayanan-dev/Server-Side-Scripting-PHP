@@ -30,9 +30,9 @@ http://localhost/foldername  view the desired output.
 
 
 ---------------------------------------
-Syntax
+Introduction
 ---------------------------------------
-
+Php is a server-side scripting language.
 
 ---------------------------------------
 Advanced Code + Validation
