@@ -33,6 +33,16 @@ http://localhost/foldername  view the desired output.
 Introduction - https://phpgurukul.com/
 ---------------------------------------
 Php is a server-side scripting language.
+Weakly Dynamic interpreter like JS
+Server side scripting language like nodejs
+prime focus = db validation & form validation
+
+XAMPP act as a web server to run php code.
+XAMPP = X cross platform , A Apache , M MySQL , P Perl , P PHP
+
+syntax 
+--------
+<? php code ?>
 
 ---------------------------------------
 Advanced Code + Validation
